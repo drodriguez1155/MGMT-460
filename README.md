@@ -1,0 +1,2 @@
+# MGMT-460
+I intend to make an app that will allow me to allow users to track their progress in weight lifting. This will be done by taking the users inputted data of their current gym progress to compile all the data inputted and track this so that the users can see what their overall progressive overload is in the gym. This will allow users to see which area of their body they are improving on more as well as seeing which areas they are not improving so much in so that they can shift their focuses in the gym in relation to their body's muscle groups. 
